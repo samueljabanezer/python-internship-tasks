@@ -1,0 +1,11 @@
+name,subject,marks,grade
+John,Math,85,B
+Alice,Math,92,A
+Bob,Math,78,C
+Eve,Math,96,A+
+Charlie,Math,71,C
+John,Science,88,B+
+Alice,Science,94,A
+Bob,Science,65,D
+Eve,Science,91,A
+Charlie,Science,80,B
